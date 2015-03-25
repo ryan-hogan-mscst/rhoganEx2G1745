@@ -1,0 +1,326 @@
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Folder Creation Check
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep File Creation Check
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep File Deletion Check
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Folder Deletion Check
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Checking IIS configuration
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Database Script DotNetNuke.Schema
+03/24/2015 13:15:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+03/24/2015 13:15:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+03/24/2015 13:15:13 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Database Script DotNetNuke.Data
+03/24/2015 13:15:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Membership Database Scripts
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallMemberRoleProvider
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade End InstallMemberRoleProvider
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.01
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/24/2015 13:15:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.02
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.03
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.04
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.05
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.00.06
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.01.00
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/24/2015 13:15:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.01.01
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.01.02
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.02.00
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.02.01
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/24/2015 13:15:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/24/2015 13:15:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/24/2015 13:15:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/24/2015 13:15:18 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.02.02
+03/24/2015 13:15:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.02.SqlDataProvider
+03/24/2015 13:15:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.02.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.03.00
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.00.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.00.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.00.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.00.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.03.01
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.01.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.01.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.01.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.01.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applying Upgrade Script 07.03.02
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Providers\DataProviders\SqlDataProvider\07.03.02.SqlDataProvider
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.1
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.1
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.2
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.2
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.3
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.3
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.4
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.4
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.5
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.5
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.0.6
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.6
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.1.0
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.0
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPages:Search Admin
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.1.1
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.1
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.1.2
+03/24/2015 13:15:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleDefinition:Module Creator
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleControl:112
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application to 7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.3
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.03
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.3
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.3
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.03
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.4
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.04
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.4
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.4
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.04
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.5
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.05
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.5
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.5
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.05
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.0.6
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.06
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.6
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=requestPathInvalidCharacters
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.6
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.06
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.1.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.1.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.1.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=defaultFileProcessingProvider
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.02.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.02.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.02.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.02.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.02.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.02.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.03.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.03.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.03.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.03.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Updating Config for 7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.03.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.03.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.3
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.03
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.4
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.04
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.5
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.05
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.0.6
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.06
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.1.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.1.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.1.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.2.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.02.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.2.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.02.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.2.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.02.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.3.0
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.03.00
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.3.1
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.03.01
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Deleting Older Files for 7.3.2
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.03.02
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgrading Application
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DDRMenu_07.03.02_Install.zip
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DDRMenu_07.03.02_Install.zip
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_CoreMessaging_07.03.02_Install.zip
+03/24/2015 13:15:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_CoreMessaging_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_DigitalAssetsManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_DigitalAssetsManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_HTML_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_HTML_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_Journal_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_Journal_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_MemberDirectory_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_MemberDirectory_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_MobileManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_MobileManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_PreviewProfileManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_PreviewProfileManagement_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_RazorHost_07.03.02_Install.zip
+03/24/2015 13:15:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_RazorHost_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_SocialGroups_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_SocialGroups_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Module - DNNCE_Taxonomy_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_Taxonomy_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Library - DNNCE_UrlManagement_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\DNNCE_UrlManagement_07.03.02_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Library - Telerik_07.03.00_Install.zip
+03/24/2015 13:15:22 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Module\Telerik_07.03.00_Install.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing JavaScript_Library - jQuery.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\JavaScriptLibrary\jQuery.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing JavaScript_Library - Knockout.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\JavaScriptLibrary\Knockout.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Provider - DNNMenuNavigationProvider_07.03.02_Install.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Provider\DNNMenuNavigationProvider_07.03.02_Install.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Provider - FiftyOneClientCapabilityProvider_07.03.02_Install.zip
+03/24/2015 13:15:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Provider\FiftyOneClientCapabilityProvider_07.03.02_Install.zip
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=defaultProvider
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing Provider - RadEditorProvider_07.03.02_Install.zip
+03/24/2015 13:15:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\Provider\RadEditorProvider_07.03.02_Install.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing JavaScript_Library - jQueryMigrate.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\JavaScriptLibrary\jQueryMigrate.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing JavaScript_Library - jQueryUI.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\JavaScriptLibrary\jQueryUI.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installing JavaScript_Library - KnockoutMapping.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Users\Music Room\dnn\newDnnSite\rhogandnn\Install\JavaScriptLibrary\KnockoutMapping.zip
+03/24/2015 13:15:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Initializing Host Settings
+03/24/2015 13:15:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Creating Site [Rhogan Ex2G DNN]
+03/24/2015 13:15:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start CreateUserInfo:host
+03/24/2015 13:15:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Create SuperUser
+03/24/2015 13:15:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Creating SuperUserhost
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:File Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:File Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Manager
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//FileManager
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:119
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:119
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:120
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:120
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:Taxonomy
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Taxonomy
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:123
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:123
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Device Detection Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Device Detection Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Device Detection Management
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:124
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:124
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:HTML Editor Manager
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:HTML Editor Manager
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:125
+03/24/2015 13:15:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:125
